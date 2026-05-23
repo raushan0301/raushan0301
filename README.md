@@ -1,3 +1,16 @@
+## 🚀 About Me
+
+Hi, I'm Raushan Raj 👋  
+A BTech Computer Engineering student at Thapar University passionate about building scalable products, full-stack applications, and exploring cybersecurity.
+
+💻 Currently building: SnapLocate – a campus companion platform with real-time features and role-based dashboards  
+🔐 Exploring: Ethical Hacking, Security concepts & EC-Council labs  
+🌱 Learning: System Design, AWS, Docker, AI systems, and scalable architectures  
+🧠 Interested in: Full Stack Development, AI-powered products, and backend systems  
+
+I enjoy turning ideas into real products — from AI-based legal systems to campus platforms and automation tools.
+
+⚡ Fun fact: I love building projects that solve real-world problems rather than just tutorial projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_.raushan_singh_?igsh=d3hmdDZzaDR6MXkz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raushan00/) 
